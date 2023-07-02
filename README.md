@@ -5,7 +5,7 @@ An overhaul adding emulated controller inputs on KB&M, in addition to replaced b
 ![](https://i1.lensdump.com/i/JAneMc.jpeg)
 
 ## Requirements
-- [ReWASD](https://pcsx2.net/](https://www.rewasd.com/)https://www.rewasd.com/)
+- [ReWASD](https://www.rewasd.com/)
 - [RDR Modding Tools](https://archive.org/details/red-dead-redemption-modding-tools.-7z)
 
 ## Instructions
