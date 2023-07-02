@@ -20,6 +20,7 @@ An overhaul adding emulated controller inputs on KB&M, in addition to replaced b
 
 Note: If you've previously played the game with a controller, you'll have to start the game with it. After you load, alt-tab over to reWASD and enable the config.
 Note2: The mouse doesn't function as mouse when the config is enabled. To turn it off, press the Windows key to show the taskbar, then hold the ` key to use the mouse as normal. Click the power icon in reWASD to turn it off.
+Note3: Set in-game sensitivity to max for intended experience.
 
 ![](https://i3.lensdump.com/i/JAnHPx.png)
 
