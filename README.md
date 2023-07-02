@@ -27,7 +27,7 @@ Note3: Set in-game sensitivity to max for intended experience.
 
 
 
-![](https://i3.lensdump.com/i/JAnHPx.png)
+![](https://i3.lensdump.com/i/JWNLUA.png)
 
 ## Screenshots
 ![](https://i.lensdump.com/i/JAnMzP.jpeg)
