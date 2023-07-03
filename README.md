@@ -18,15 +18,13 @@ An overhaul adding emulated controller inputs on KB&M, in addition to replaced b
 
 ### Importing reWASD Profile
 
-*I've had reports simply dragging and dropping this folder in C: didn't work. If the below doesn't work, try the workaround **[here](https://github.com/vStar925/RDR1-Keyboard-Mouse/blob/main/reWASDTutorial.md).**
+*Installing manually if the below doesn't work for some reason **[here](https://github.com/vStar925/RDR1-Keyboard-Mouse/blob/main/reWASDTutorial.md).**
 
-1.) Copy the Users folder inside reWASD config directly to your C:/ Drive (default reWASD profiles folder)
+1.) After downloading the KBM mod, navigate to the reWASD config folder and open each folder until you see the four .rewasd files. Double-click one or all of them and a window will open in reWASD.
 
-2.) (This may not need to be done, I'm not sure. Putting it here just in case) In reWASD on the bottom left, right click your keyboard and "Group with other devices" and group it with your mouse.
+![](https://i3.lensdump.com/i/JI2dwC.png)
 
-Note: If you've previously played the game with a controller, you'll have to start the game with it. After you load, alt-tab over to reWASD and enable the config.
-Note2: The mouse doesn't function as mouse when the config is enabled. To turn it off, press the Windows key to show the taskbar, then hold the ` key to use the mouse as normal. Click the power icon in reWASD to turn it off.
-Note3: Set in-game sensitivity to max for intended experience.
+2.) Import and configure reWASD as usual. [More detailed instructions under step 6.](https://github.com/vStar925/RDR1-Keyboard-Mouse/blob/main/reWASDTutorial.md)
 
 ### * ***Scroll to the bottom for optional instructions on hiding the mouse cursor in-game*** *
 ---
