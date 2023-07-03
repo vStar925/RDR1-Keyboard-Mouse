@@ -10,6 +10,8 @@ An overhaul adding emulated controller inputs on KB&M, in addition to replaced b
 
 ## Instructions
 
+*Note: If you downloaded a version prior to 1.1.1, the folder directory for reWASD is wrong. My mistake. Simply rename Documents to Public Documents and proceed as normal. This is fixed in 1.1.1*
+
 1.) Follow Sections II and III of this guide for detailed instructions on exploring the game files (https://github.com/vStar925/Red-Dead-Redemption-1-Modding)
 
 2.) In "RDR1 KBM Mod\files to replace", search for all 3 files inside rdr2_layer0.rpf with MagicRDR and replace them with their respective files in this folder (Right click, replace) Save and exit MagicRDR.
