@@ -2,6 +2,8 @@
 
 An overhaul adding emulated controller inputs on KB&M, in addition to replaced button prompts, and tweaked sensitivity to feel more like a mouse.
 
+**Works on Red Dead Redemption, Game of the Year Edition, and Undead Nightmare (standalone)**
+
 ![](https://i1.lensdump.com/i/JAneMc.jpeg)
 
 ## Requirements
@@ -36,7 +38,7 @@ An overhaul adding emulated controller inputs on KB&M, in addition to replaced b
 
 1.) [Follow Sections II and III of this guide to understand the basics of replacing files](https://github.com/vStar925/Red-Dead-Redemption-1-Modding)
 
-2.) Inside *KBM Mod\2.) Replace ALL of these files with MagicRDR*, search for all 4 of these files inside rdr2_layer0.rpf with MagicRDR and replace them with their respective files in this folder (Right click, replace) Save and exit MagicRDR.
+2.) Inside *KBM Mod\2.)*, pick which game you are modifying (RDR or Undead Nightmare) and open that folder. Search for all of those files inside rdr2_layer0.rpf with MagicRDR and replace them with their respective files in this folder (Right click, replace) Save and exit MagicRDR.
 
 *Note: You do NOT need to repack the extracted iso file after replacing files. You can run the modified game by opening default.xex directly inside Xenia*
 
