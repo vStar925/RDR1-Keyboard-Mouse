@@ -1,43 +1,46 @@
-# Red Dead Redemption 1 Keyboard & Mouse Overhaul
+![](https://i3.lensdump.com/i/JZBhuK.png)
 
 An overhaul adding emulated controller inputs on KB&M, in addition to replaced button prompts, and tweaked sensitivity to feel more like a mouse.
 
 ![](https://i1.lensdump.com/i/JAneMc.jpeg)
 
 ## Requirements
+
+<details>
+
+<summary>Click to expand</summary>
+
+- [Xenia Canary](https://github.com/xenia-canary/xenia-canary)
 - [ReWASD](https://www.rewasd.com/)
 - [RDR Modding Tools](https://archive.org/details/red-dead-redemption-modding-tools.-7z)
 
+</details>
+
 ## Instructions
 
-### Swapping Files
+<details>
 
-1.) Follow Sections II and III of this guide for detailed instructions on exploring the game files (https://github.com/vStar925/Red-Dead-Redemption-1-Modding)
+<summary>Click to expand</summary>
 
-2.) In "RDR1 KBM Mod\files to replace", search for all 3 files inside rdr2_layer0.rpf with MagicRDR and replace them with their respective files in this folder (Right click, replace) Save and exit MagicRDR.
+### 1.) reWASD Setup
 
-### Importing reWASD Profile
+*If you haven't already installed reWASD, do that now and run it at least once*
 
-*Installing manually if the below doesn't work for some reason **[here](https://github.com/vStar925/RDR1-Keyboard-Mouse/blob/main/reWASDTutorial.md).**
+1.) Download and extract the latest release. Inside, open folder 1. Double-click any or all of the configs to add them to reWASD (You can switch between them at any time within reWASD)
 
-1.) After downloading the KBM mod, navigate to the reWASD config folder and open each folder until you see the four .rewasd files. Double-click one or all of them and a window will open in reWASD.
+2.) [Group your mouse and keyboard in reWASD](https://help.rewasd.com/how-to-remap/group-of-devices.html)
 
-![](https://i3.lensdump.com/i/JI2dwC.png)
+### 2.) Swapping Files
 
-2.) Import and configure reWASD as usual. [More detailed instructions under step 6.](https://github.com/vStar925/RDR1-Keyboard-Mouse/blob/main/reWASDTutorial.md)
+*Make sure you have downloaded and extracted [RDR Modding Tools](https://archive.org/details/red-dead-redemption-modding-tools.-7z) before continuing*
 
-### * ***Scroll to the bottom for optional instructions on hiding the mouse cursor in-game*** *
----
+1.) [Follow Sections II and III of this guide to understand the basics of replacing files](https://github.com/vStar925/Red-Dead-Redemption-1-Modding)
 
+2.) Inside *KBM Mod\2.) Replace ALL of these files with MagicRDR*, search for all 4 of these files inside rdr2_layer0.rpf with MagicRDR and replace them with their respective files in this folder (Right click, replace) Save and exit MagicRDR.
 
+*Note: You do NOT need to repack the extracted iso file after replacing files. You can run the modified game by opening default.xex directly inside Xenia*
 
-![](https://i3.lensdump.com/i/JWNLUA.png)
-
-## Screenshots
-![](https://i.lensdump.com/i/JAnMzP.jpeg)
-![](https://i.lensdump.com/i/JAnDKo.jpeg)
-
-## Hiding the Mouse Cursor (optional)
+### 3.) Hiding the Mouse Cursor (optional)
 
 Since are you using a mouse in Xenia, the cursor will stay on screen while playing. Somehow, I didn't find this all that distracting but if you're interested in hiding it, follow these steps.
 
@@ -48,10 +51,21 @@ Since are you using a mouse in Xenia, the cursor will stay on screen while playi
 2.) Double-click "Normal select" and replace it with the invisible cursor. Save As... (Xenia, RDR, etc.). Apply.
 
 3.) Select the scheme whenever you want to play RDR with this setup and switch back to None to return the cursor to normal.
+  
+</details>
 
+## Screenshots
+<details>
+  <summary>Click to expand</summary>
 
+![](https://i3.lensdump.com/i/JWNLUA.png)
+![](https://i.lensdump.com/i/JAnMzP.jpeg)
+![](https://i.lensdump.com/i/JAnDKo.jpeg)
+  
+  ```javascript
+  console.log("I'm a code block!");
+  ```
+  
+</details>
 
-
-
-
-
+## [FAQ](https://github.com/vStar925/RDR1-Keyboard-Mouse/blob/main/FAQ.md)
