@@ -11,7 +11,7 @@ An overhaul adding emulated controller inputs on KB&M, in addition to replaced b
 <summary>Click to expand</summary>
 
 - [Xenia Canary](https://github.com/xenia-canary/xenia-canary)
-- [ReWASD](https://www.rewasd.com/) Paid software with 7 day trial. You must activate a separate 3 day trial for each advanced mapping feature, or pay $25 for lifetime full license.
+- [ReWASD](https://www.rewasd.com/) Paid software with 7 day trial. [You must activate a separate 3 day trial for each advanced mapping feature, or pay $25 for lifetime full license.](https://github.com/vStar925/RDR1-Keyboard-Mouse/issues/3#issuecomment-1620504256)
 - [RDR Modding Tools](https://archive.org/details/red-dead-redemption-modding-tools.-7z)
 
 </details>
